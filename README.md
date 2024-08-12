@@ -6,7 +6,7 @@ O AgroTech Bank, especializado no agronegócio, busca melhorar a eficiência no 
 O principal objetivo deste projeto é desenvolver uma Calculadora de Garantias para Sacas de Café, que permitirá ao banco:
 Identificar quais características do café aumentam a probabilidade de ele ser classificado como premium.
 Fornecer um valor aproximado da garantia e o valor máximo a ser liberado para empréstimo, com base nas informações fornecidas pelo usuário.
-###Base de Dados
+### Base de Dados
 A base de dados utilizada contém informações sobre 862 tipos de café, com características que ajudam a determinar se o café é premium ou normal. As variáveis estão divididas em:
 - Quantitativas: Medidas numéricas (ex: quantidade de sacas).
 - Qualitativas: Características descritivas (ex: país de origem, tipo de variedade).
